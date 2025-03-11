@@ -1,0 +1,21 @@
+{
+    "name": "Horary_Angle",
+    "version": "1.0.0",
+    "description": "Bibliothèque pour calculer l'angle horaire à partir de la date et de l'heure RTC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ton-repo/Horary_Angle"
+    },
+    "authors": [
+        {
+            "name": "Mafsu",
+            "email": "Mafsu_Y@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "adafruit/RTClib": "^2.1.4"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}

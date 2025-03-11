@@ -1,0 +1,18 @@
+{
+  "name": "StartStopCondition",
+  "version": "1.0.0",
+  "description": "Bibliothèque pour Les conditions de start and stop de la sync motor",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/user/RTC"
+  },
+  "authors": [
+      {
+          "name": "Jeremy"
+      }
+  ],
+  "license": "MIT",
+  "dependencies": {
+      "adafruit/RTClib": "^2.1.4"
+  }
+}

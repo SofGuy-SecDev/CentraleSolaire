@@ -1,0 +1,19 @@
+{
+    "name": "RTC",
+    "version": "1.0.0",
+    "description": "Une bibliothèque pour gérer le RTC DS3231 et obtenir le numéro du jour dans l'année.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/user/RTC"
+    },
+    "authors": [
+        {
+            "name": "Ton Nom",
+            "email": "tonemail@example.com"
+        }
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "adafruit/RTClib": "^2.1.4"
+    }
+}

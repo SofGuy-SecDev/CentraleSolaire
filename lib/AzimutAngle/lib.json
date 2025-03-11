@@ -1,0 +1,18 @@
+{
+  "name": "AzimutAngle",
+  "version": "1.0.0",
+  "description": "Bibliothèque pour calculer l'angle Azimut.",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/ton-repo/AzimutAngle"
+  },
+  "authors": [
+      {
+          "name": "Mafsu",
+          "email": "Mafsu_Y@gmail.com"
+      }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

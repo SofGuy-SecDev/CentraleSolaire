@@ -1,0 +1,14 @@
+{
+  "name": "SyncMotorAngle",
+  "version": "1.0.0",
+  "description": "Bibliothèque pour Synchronisé les moteurs avec les valeurs des angles Azimut et d'élévation",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/ton-repo/AzimutAngle"
+  },
+  "authors": [
+      {
+          "name": "Jeremy"
+      }
+  ]
+}
